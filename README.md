@@ -6,7 +6,7 @@ Projeto realizado em mini curso/aula para conhecimento de Bootstrap.
 
 <p><i>Screenshot da página:</i><p>
 
-<img src=""/>
+<img src="https://github.com/rachelbsa/Bootstrap/blob/main/assets/screenshot%20project.png?raw=true"/>
 
 <p><i>Responsividade:</i><p>
 
